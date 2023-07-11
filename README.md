@@ -11,7 +11,7 @@ Uma landing page de vendas do combo alura+ mais alura língua.
 
 ## 📁 Acesso ao projeto
 
-[Veja o projeto final do curso em funcionamento]().
+[Veja o projeto final do curso em funcionamento](https://alura-plus-caroolt.vercel.app/).
 
 Neste repositório você tem acesso a todo o material produzido no curso.
 
